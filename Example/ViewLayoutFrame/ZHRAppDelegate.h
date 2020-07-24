@@ -2,8 +2,8 @@
 //  ZHRAppDelegate.h
 //  ViewLayoutFrame
 //
-//  Created by zhanghuaran on 07/24/2020.
-//  Copyright (c) 2020 zhanghuaran. All rights reserved.
+//  Created by zhuaran on 07/24/2020.
+//  Copyright (c) 2020 zhuaran. All rights reserved.
 //
 
 @import UIKit;

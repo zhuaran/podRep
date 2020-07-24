@@ -1,0 +1,22 @@
+{
+  "name": "ViewLayoutFrame",
+  "version": "0.1.0",
+  "summary": "Layout view Frame.",
+  "description": "快捷计算view的frame\nTODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhuaran/podRep",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhuaran": "zhuaran@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zhuaran/podRep.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ViewLayoutFrame/Classes/**/*"
+}

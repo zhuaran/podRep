@@ -1,0 +1,16 @@
+PODS:
+  - ViewLayoutFrame (0.1.0)
+
+DEPENDENCIES:
+  - ViewLayoutFrame (from `../`)
+
+EXTERNAL SOURCES:
+  ViewLayoutFrame:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ViewLayoutFrame: f7f7228d87c731f75592c613a813b5823c7744f3
+
+PODFILE CHECKSUM: a07a389c7e3876d93558dd1d07f3db74cd201d7e
+
+COCOAPODS: 1.7.3

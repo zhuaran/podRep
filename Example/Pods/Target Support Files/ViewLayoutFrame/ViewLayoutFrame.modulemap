@@ -1,0 +1,6 @@
+framework module ViewLayoutFrame {
+  umbrella header "ViewLayoutFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

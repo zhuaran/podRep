@@ -1,6 +1,6 @@
 # ViewLayoutFrame
 
-[![CI Status](https://img.shields.io/travis/zhanghuaran/ViewLayoutFrame.svg?style=flat)](https://travis-ci.org/zhanghuaran/ViewLayoutFrame)
+[![CI Status](https://img.shields.io/travis/zhuaran/ViewLayoutFrame.svg?style=flat)](https://travis-ci.org/zhuaran/ViewLayoutFrame)
 [![Version](https://img.shields.io/cocoapods/v/ViewLayoutFrame.svg?style=flat)](https://cocoapods.org/pods/ViewLayoutFrame)
 [![License](https://img.shields.io/cocoapods/l/ViewLayoutFrame.svg?style=flat)](https://cocoapods.org/pods/ViewLayoutFrame)
 [![Platform](https://img.shields.io/cocoapods/p/ViewLayoutFrame.svg?style=flat)](https://cocoapods.org/pods/ViewLayoutFrame)
@@ -22,7 +22,7 @@ pod 'ViewLayoutFrame'
 
 ## Author
 
-zhanghuaran, zhanghuaran@58.com
+zhuaran, zhuaran@163.com
 
 ## License
 
