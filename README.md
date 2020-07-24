@@ -1,0 +1,29 @@
+# ViewLayoutFrame
+
+[![CI Status](https://img.shields.io/travis/zhanghuaran/ViewLayoutFrame.svg?style=flat)](https://travis-ci.org/zhanghuaran/ViewLayoutFrame)
+[![Version](https://img.shields.io/cocoapods/v/ViewLayoutFrame.svg?style=flat)](https://cocoapods.org/pods/ViewLayoutFrame)
+[![License](https://img.shields.io/cocoapods/l/ViewLayoutFrame.svg?style=flat)](https://cocoapods.org/pods/ViewLayoutFrame)
+[![Platform](https://img.shields.io/cocoapods/p/ViewLayoutFrame.svg?style=flat)](https://cocoapods.org/pods/ViewLayoutFrame)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+ViewLayoutFrame is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'ViewLayoutFrame'
+```
+
+## Author
+
+zhanghuaran, zhanghuaran@58.com
+
+## License
+
+ViewLayoutFrame is available under the MIT license. See the LICENSE file for more info.
